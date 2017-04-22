@@ -1,0 +1,5 @@
+.vscode/
+lib/__pycache__/
+bat/
+SQL/
+test/
